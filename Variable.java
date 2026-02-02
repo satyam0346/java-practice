@@ -6,6 +6,7 @@ public class Variable {
         char grade = 'A';
         boolean isPassed = true;
 
+        System.out.println("Student Setails");
         System.out.println("Name:" + name);
         System.out.println("Roll No:" + roll);
         System.out.println("Marks:" + marks);
