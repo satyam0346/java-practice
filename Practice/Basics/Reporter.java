@@ -1,4 +1,4 @@
-package Practice.Basics;
+
 import java.util.Scanner;
 public class Reporter {
     public static void main(String[] args) {
