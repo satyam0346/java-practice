@@ -20,6 +20,8 @@ public class SumOfNumber {
 
         System.out.println("Sum of its element is; "+ sum);
 
+        sc.close();
+
     }
     
 }
